@@ -1,0 +1,5 @@
+---
+sidebar: auto
+---
+
+#### es6
